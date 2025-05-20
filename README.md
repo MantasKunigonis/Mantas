@@ -1,4 +1,4 @@
-# Hi, I'm Mantas
+# 👋 Hi, I'm Mantas
 
 🚀 Tech enthusiast exploring code
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mantas
 
-🚀 Tech enthusiast exploring code
+🚀 Tech enthusiast writing code
 
 🎓 B.B.A in Computer Information Systems
 

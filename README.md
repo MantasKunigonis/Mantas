@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Mantas
-
-🚀 Tech enthusiast writing code
-
-🎓 B.B.A in Computer Information Systems
+# 👋 Hi, I'm Mantas!
 
 📫 Connect with me: [LinkedIn](https://linkedin.com/in/mantaskunigonis)
